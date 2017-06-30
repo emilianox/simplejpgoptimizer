@@ -1,0 +1,5 @@
+input/*
+output/*
+node_modules/*
+!input/.gitkeep
+!output/.gitkeep

@@ -1,0 +1,13 @@
+{
+  "name": "simplejpgoptimizer",
+  "version": "0.0.1",
+  "description": "a image optimizer by folder",
+  "main": "gulpfile.js",
+  "author": "emilianohfernandez@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.3.0",
+    "imagemin-mozjpeg": "^6.0.0"
+  }
+}
